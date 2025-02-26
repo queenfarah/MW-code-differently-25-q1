@@ -1,4 +1,4 @@
-# Code Differently Cohort 2024 Q1
+# Code Differently Cohort 2025 Q1
 
 ## Instructor
 
